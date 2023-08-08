@@ -5,6 +5,7 @@ const nextConfig = {
             'alain-bts-august2023.s3.me-south-1.amazonaws.com',
         ]
     },
+    output: 'standalone',
 }
 
 module.exports = nextConfig
